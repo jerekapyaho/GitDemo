@@ -1,5 +1,8 @@
 import sys
 
+def add(n, m):
+    return n + m
+
 def square(n):
     return n * n
 
